@@ -1,0 +1,14 @@
+# ninja log v5
+736	5420	7231430442026720	CMakeFiles/37_4_1_Cal.dir/37_4_1_Cal_autogen/mocs_compilation.cpp.obj	84ee163022b27127
+18	237	7231432149064125	37_4_1_Cal_autogen/timestamp	6b934638541f61c1
+18	237	7231432149064125	37_4_1_Cal_autogen/mocs_compilation.cpp	6b934638541f61c1
+18	237	7231432149064125	F:/__C++/Skillbox/37 Qt_next_level/37_4_1_Cal/cmake-build-debug/37_4_1_Cal_autogen/timestamp	6b934638541f61c1
+18	237	7231432149064125	F:/__C++/Skillbox/37 Qt_next_level/37_4_1_Cal/cmake-build-debug/37_4_1_Cal_autogen/mocs_compilation.cpp	6b934638541f61c1
+249	5026	7231432196964749	CMakeFiles/37_4_1_Cal.dir/main.cpp.obj	7725cb279a320d0
+5027	5489	7231432199372272	37_4_1_Cal.exe	bd9c913151fdb569
+16	208	7231433030625510	37_4_1_Cal_autogen/timestamp	6b934638541f61c1
+16	208	7231433030625510	37_4_1_Cal_autogen/mocs_compilation.cpp	6b934638541f61c1
+16	208	7231433030625510	F:/__C++/Skillbox/37 Qt_next_level/37_4_1_Cal/cmake-build-debug/37_4_1_Cal_autogen/timestamp	6b934638541f61c1
+16	208	7231433030625510	F:/__C++/Skillbox/37 Qt_next_level/37_4_1_Cal/cmake-build-debug/37_4_1_Cal_autogen/mocs_compilation.cpp	6b934638541f61c1
+223	4811	7231433076638063	CMakeFiles/37_4_1_Cal.dir/main.cpp.obj	7725cb279a320d0
+4811	5290	7231433079195423	37_4_1_Cal.exe	bd9c913151fdb569

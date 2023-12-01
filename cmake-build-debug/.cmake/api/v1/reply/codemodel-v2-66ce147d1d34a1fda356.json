@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "37_4_1_Cal",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "37_4_1_Cal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-37_4_1_Cal-Debug-a2cc370b1da83b9acb92.json",
+					"name" : "37_4_1_Cal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "37_4_1_Cal_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-37_4_1_Cal_autogen-Debug-383b350e54ef68a04f5e.json",
+					"name" : "37_4_1_Cal_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "37_4_1_Cal_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-37_4_1_Cal_autogen_timestamp_deps-Debug-ea60b8ea49811a383fbc.json",
+					"name" : "37_4_1_Cal_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/__C++/Skillbox/37 Qt_next_level/37_4_1_Cal/cmake-build-debug",
+		"source" : "F:/__C++/Skillbox/37 Qt_next_level/37_4_1_Cal"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
